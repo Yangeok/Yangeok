@@ -22,7 +22,11 @@
 - IoT IaaS, Paas
 - Cross-platform mobile application framework
 
+
 <div align=center>
+
+![github-stats](https://github-readme-stats.vercel.app/api?username=yangeok&show_icons=true)
+
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yangeok.github.io/)](https://yangeok.github.io/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/11663715/yangwook-jeong)](https://stackoverflow.com/users/11663715/yangwook-jeong)
