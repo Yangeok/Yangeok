@@ -19,8 +19,8 @@
 
 ### Interesting
 
-- IoT IaaS, Paas
-- Cross-platform mobile application framework
+- Data engineering (ETL)
+- Nodejs based server side development
 
 
 <div align=center>
