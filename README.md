@@ -19,7 +19,7 @@
 
 ### Interesting
 
-- Data engineering (ETL)
+- Data engineering
 - Nodejs based server side development
 
 
