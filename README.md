@@ -20,7 +20,7 @@
 ### Interesting
 
 - Data engineering
-- Nodejs based server side development
+- Javascript/Typescript
 
 
 <div align=center>
