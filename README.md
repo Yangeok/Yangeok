@@ -19,8 +19,9 @@
 
 ### Interesting
 
-- Data engineering
 - Javascript/Typescript
+- DevOps
+- Data engineering
 
 
 <div align=center>
