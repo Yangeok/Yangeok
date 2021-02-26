@@ -19,8 +19,7 @@
 
 ### Interesting
 
-- Javascript/Typescript
-- DevOps
+- Javascript/Typescript/Python
 - Data engineering
 
 
