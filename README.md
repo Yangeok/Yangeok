@@ -4,7 +4,7 @@
 
 </div>
 
-### Javascript Engineer
+### Software Engineer
 
 <!--
 - 🔭 I’m currently working on ...
