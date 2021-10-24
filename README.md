@@ -21,6 +21,7 @@
 
 - Javascript/Typescript/Python
 - Containerizing
+- System Architecture
 - Data engineering
 
 <div align=center>
