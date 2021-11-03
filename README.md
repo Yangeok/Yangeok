@@ -19,7 +19,7 @@
 
 ### Interesting
 
-- Javascript/Typescript/Python
+- JS/TS/Python/SQL
 - Containerizing
 - System Architecture
 - Data engineering
