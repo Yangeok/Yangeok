@@ -26,6 +26,7 @@
 
 <div align=center>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=yangeok)
 ![github-stats](https://github-readme-stats.vercel.app/api?username=yangeok&show_icons=true&count_private=true)
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yangeok.github.io/)](https://yangeok.github.io/)
