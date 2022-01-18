@@ -4,7 +4,7 @@
 
 </div>
 
-### Software Engineer
+### Data Engineer
 
 <!--
 - 🔭 I’m currently working on ...
@@ -20,9 +20,9 @@
 ### Interesting
 
 - JS/TS/Python/SQL
+- Data engineering
 - Containerizing
 - System Architecture
-- Data engineering
 
 <div align=center>
 
