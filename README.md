@@ -6,7 +6,7 @@
 
 ### Data Engineer
 
-🔭 I’m currently working on [Seoul Analytica](https://github.com/SeoulAnalytica)
+🔭 I’m open to work!
 
 <!--
 - 
