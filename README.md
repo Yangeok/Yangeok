@@ -21,9 +21,9 @@
 
 ### Interesting
 
-- JS/TS/Python/SQL
-- Data engineering
-- Containerizing
+- Python, SQL, Typescript
+- Data processing
+- AI
 - System Architecture
 
 <div align=center>
