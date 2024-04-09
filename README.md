@@ -23,8 +23,8 @@
 
 - Python, SQL, Typescript
 - Data processing
-- AI
-- System Architecture
+- Recommender System
+- Data Application Architecture
 
 <div align=center>
 
