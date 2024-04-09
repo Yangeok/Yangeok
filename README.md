@@ -6,7 +6,7 @@
 
 ### Data Engineer
 
-🔭 I’m open to work!
+🔭 I'm seeking new opportunities.
 
 <!--
 - 
