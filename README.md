@@ -6,6 +6,8 @@
 
 ### Data Engineer
 
+- I'm developing a domain service for films and TV series.
+
 <!--
 - 
 - 🌱 I’m currently learning ...
