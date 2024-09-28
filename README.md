@@ -6,8 +6,6 @@
 
 ### Data Engineer
 
-🔭 I'm seeking new opportunities.
-
 <!--
 - 
 - 🌱 I’m currently learning ...
