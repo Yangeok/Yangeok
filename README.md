@@ -4,7 +4,7 @@
 
 </div>
 
-### Data Engineer
+### Software Engineer
 
 - I'm developing a domain service for films and TV series.
 
